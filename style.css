@@ -114,6 +114,9 @@ section:last-of-type {
 tr {
     border-bottom: 1px solid var(--stone150);
 }
+td {
+    padding: 1.2rem 0;
+}
 table {
     border-collapse: collapse;
 }
